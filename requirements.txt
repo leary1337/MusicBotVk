@@ -1,0 +1,3 @@
+vk-api
+aiogram
+requests
